@@ -1,5 +1,7 @@
 ## yii2-rest
 
+语言：[中文](https://github.com/benbose/yii2-rest/blob/master/README.md) | [英文](https://github.com/benbose/yii2-rest/blob/master/README-EN.md)
+
 使用Yii2的核心，遵循设计7大原则，重新定义并梳理其结构，去除不必要的结构，使源包更加小巧，使该项目开发API架构或微服务架构会根据方便，能更加快速的进行API的开发，开发简洁，代码维护方便，欢迎读者吐槽，如果觉得该项目对你有帮助，麻烦留个星星，谢啦
 ### 特点：
 * 模块化隔离化与迪米特法则更加直观，独立或实现API或重构微服务更加方便
